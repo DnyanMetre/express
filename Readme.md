@@ -4,6 +4,7 @@
 
 **This project has a [Code of Conduct][].**
 
+# Paper Live
 ## Table of contents
 
 * [Installation](#Installation)
